@@ -14,4 +14,23 @@ opportunities and am eager to explore ways to contribute to the tech industry.</
 you
 for taking the time to read my profile.</p>
 
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<hr>
+
+<h2>My stuff:</h2>
+
+<img align="left" alt="C++" width="30px" style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
