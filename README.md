@@ -14,8 +14,6 @@ opportunities and am eager to explore ways to contribute to the tech industry.</
 you
 for taking the time to read my profile.</p>
 
-<hr>
-
 <h2>My stuff:</h2>
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;"
