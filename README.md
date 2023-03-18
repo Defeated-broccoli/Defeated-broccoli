@@ -1,5 +1,7 @@
 <h1>Hi! ✌</h1>
 
+<p>Sorry for bad profile picture, it's me from a movie, I also don't speak french.</p>
+
 <p>As a self-taught programmer, I have been honing my skills in C++, C#, HTML, and CSS languages. Despite not having any
     professional experience, I am constantly seeking new challenges and opportunities to apply my knowledge.</p>
 
