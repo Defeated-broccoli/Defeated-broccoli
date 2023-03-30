@@ -15,7 +15,7 @@ you
 for taking the time to read my profile.</p>
 
 <h2>My stuff:</h2>
-<article>
+<article align="center">
 <img align="left" alt="C++" width="30px" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;"
