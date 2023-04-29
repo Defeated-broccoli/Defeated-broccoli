@@ -1,8 +1,6 @@
 <h1>Hi! ✌</h1>
 
-<p></p>If you're interested in connecting with me or learning more about my work, please feel free to reach out. Thank
-you
-for taking the time to read my profile.</p>
+<p>If you're interested in connecting with me or learning more about my work, please feel free to reach out.</p>
 
 <h2>My stuff:</h2>
 
